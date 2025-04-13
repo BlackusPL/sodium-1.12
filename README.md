@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo.png" width="250">
-</p>
+</p> 
 
 # Vintagium
 Vintagium is an Unofficial Fork of CaffeineMC's ["Sodium"](https://modrinth.com/mod/sodium), ported to 1.12.2 and made to work with Forge Mod Loader.
